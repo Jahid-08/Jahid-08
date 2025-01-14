@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mujahid, an <a href="https:linkedin.com/in/mujahid-muhammad-1144a326b">IT Professional</a></h1>
+<h1>Hi, I'm Mujahid, an <a href="https://www.linkedin.com/in/mujahid-muhammad-1144a326b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BI2CyUyNYTzO8xQAnE29%2FIw%3D%3D">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -18,4 +18,4 @@
 
 [twitter]: https://twitter.com/Josh
 [instagram]: https://www.instagram.com/Josh
-[linkedin]: https://linkedin.com/in/Josh
+[linkedin]: https://www.linkedin.com/in/mujahid-muhammad-1144a326b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BI2CyUyNYTzO8xQAnE29%2FIw%3D%3D
